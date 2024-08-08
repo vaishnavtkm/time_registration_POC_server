@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a2lgupuL44vkWVelYTU9Ig1Qjv7hJzWKer4MAwBjUIU=",
+  "Source": "TimeApp_Server",
+  "BasePath": "_content/TimeApp_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

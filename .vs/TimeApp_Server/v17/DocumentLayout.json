@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\models\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\models\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\data\\timingsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\data\\timingsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\interfaces\\ipostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\interfaces\\ipostsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\managers\\postsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\managers\\postsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\repositories\\postsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\repositories\\postsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\viewmodels\\postsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\viewmodels\\postsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\models\\clientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\models\\clientdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\migrations\\20240805175546_newmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\migrations\\20240805175546_newmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805064915_newmigrati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimeApp_Server\\Migrations\\20240805064915_newmigrati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240802111619_newmigrationnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimeApp_Server\\Migrations\\20240802111619_newmigrationnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240802090523_newmigrationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimeApp_Server\\Migrations\\20240802090523_newmigrationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\timeapp_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\timeapp_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240730082904_newmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TimeApp_Server\\Migrations\\20240730082904_newmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\timeapp_server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\timeapp_server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|c:\\users\\vaith\\techharvest\\full stack\\timeapp - test\\timeapp_server\\timeapp_server\\migrations\\20240805094746_newmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B8E775-1522-4DB9-9FA0-A00A47FA5B81}|TimeApp_Server\\TimeApp_Server.csproj|solutionrelative:timeapp_server\\migrations\\20240805094746_newmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Models\\Posts.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Models\\Posts.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Models\\Posts.cs",
+              "RelativeToolTip": "TimeApp_Server\\Models\\Posts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:52:20.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPostsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Interfaces\\IPostsRepository.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Interfaces\\IPostsRepository.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Interfaces\\IPostsRepository.cs",
+              "RelativeToolTip": "TimeApp_Server\\Interfaces\\IPostsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:04:10.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimingsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Data\\TimingsDBContext.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Data\\TimingsDBContext.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Data\\TimingsDBContext.cs",
+              "RelativeToolTip": "TimeApp_Server\\Data\\TimingsDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:02:47.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "TimeApp_Server\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:51:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\MappingProfile.cs",
+              "RelativeToolTip": "TimeApp_Server\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:43:57.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostsManager.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Managers\\PostsManager.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Managers\\PostsManager.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Managers\\PostsManager.cs",
+              "RelativeToolTip": "TimeApp_Server\\Managers\\PostsManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:23:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Repositories\\PostsRepository.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Repositories\\PostsRepository.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Repositories\\PostsRepository.cs",
+              "RelativeToolTip": "TimeApp_Server\\Repositories\\PostsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:43:03.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostsView.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\ViewModels\\PostsView.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\ViewModels\\PostsView.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\ViewModels\\PostsView.cs",
+              "RelativeToolTip": "TimeApp_Server\\ViewModels\\PostsView.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:39:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientDetails.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Models\\ClientDetails.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Models\\ClientDetails.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Models\\ClientDetails.cs",
+              "RelativeToolTip": "TimeApp_Server\\Models\\ClientDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:51:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240805094746_newmi.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805094746_newmi.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Migrations\\20240805094746_newmi.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805094746_newmi.cs",
+              "RelativeToolTip": "TimeApp_Server\\Migrations\\20240805094746_newmi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:47:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Program.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Program.cs",
+              "RelativeToolTip": "TimeApp_Server\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:57:04.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240805175546_newmig.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805175546_newmig.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Migrations\\20240805175546_newmig.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805175546_newmig.cs",
+              "RelativeToolTip": "TimeApp_Server\\Migrations\\20240805175546_newmig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:55:47.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240802111619_newmigrationnn.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240802111619_newmigrationnn.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Migrations\\20240802111619_newmigrationnn.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240802111619_newmigrationnn.cs",
+              "RelativeToolTip": "TimeApp_Server\\Migrations\\20240802111619_newmigrationnn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:16:19.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TimeApp_Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\appsettings.json",
+              "RelativeToolTip": "TimeApp_Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T11:39:49.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240805064915_newmigrati.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805064915_newmigrati.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Migrations\\20240805064915_newmigrati.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240805064915_newmigrati.cs",
+              "RelativeToolTip": "TimeApp_Server\\Migrations\\20240805064915_newmigrati.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:49:15.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240802090523_newmigrationn.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240802090523_newmigrationn.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Migrations\\20240802090523_newmigrationn.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240802090523_newmigrationn.cs",
+              "RelativeToolTip": "TimeApp_Server\\Migrations\\20240802090523_newmigrationn.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:05:23.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeApp_Server.csproj",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\TimeApp_Server.csproj",
+              "RelativeDocumentMoniker": "TimeApp_Server\\TimeApp_Server.csproj",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\TimeApp_Server.csproj",
+              "RelativeToolTip": "TimeApp_Server\\TimeApp_Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T11:51:57.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240730082904_newmigr.cs",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240730082904_newmigr.cs",
+              "RelativeDocumentMoniker": "TimeApp_Server\\Migrations\\20240730082904_newmigr.cs",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\Migrations\\20240730082904_newmigr.cs",
+              "RelativeToolTip": "TimeApp_Server\\Migrations\\20240730082904_newmigr.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:29:04.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeApp_Server.http",
+              "DocumentMoniker": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\TimeApp_Server.http",
+              "RelativeDocumentMoniker": "TimeApp_Server\\TimeApp_Server.http",
+              "ToolTip": "C:\\Users\\vaith\\techharvest\\Full Stack\\timeapp - test\\TimeApp_Server\\TimeApp_Server\\TimeApp_Server.http",
+              "RelativeToolTip": "TimeApp_Server\\TimeApp_Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-26T09:00:25.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
