@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeApp_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+860ea368de90b5b3c9ad0e42491c7fc61b18be88")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeApp_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeApp_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
